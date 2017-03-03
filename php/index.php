@@ -41,7 +41,6 @@
 
                 <li><a href="#contact">Demande d'admission</a></li>
 
-                <li><a href="#contact">Liens</a></li>
                 <li><a href="#contact">Photos</a></li>
 
                 <li class="dropdown">
@@ -72,10 +71,10 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
+          <img class="first-slide" src="../img/Foyer.jpg" alt="First slide"> <!--1024x700 good resolution -->
           <div class="container">
             <div class="carousel-caption">
-              <h1>Example headline.</h1>
+              <h1>Vivre au foyer Saint-Joseph</h1>
               <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
             </div>
@@ -123,15 +122,25 @@
       <div class="row">
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <h2>Historique</h2>
+          <p>
+          En 1908, un généreux bourgeois de Morlon, Edouard Barbey, léguait par testament à la commune sa fortune pour créer un hospice destiné à recevoir les orphelins, ainsi que les personnes incapables de travailler, bourgeois de la commune. L’établissement ouvre ses portes en octobre 1912 Son but principal était de pourvoir à la subsistance des vieillards sans ressources et des enfants abandonnés.
+          </p>
+          <p><a class="btn btn-default" href="#" role="button">En savoir plus &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <h2>Philosophie</h2>
+          <p>
+            <ul>
+              <li>Etre le prolongement de ce que vivait la personne âgée à son domicile</li>
+              <li>Etre un lieu de vie au sein duquel des professionnels prodiguent un accompagnement digne et respectueux.</li>
+              <li>Favoriser et maintenir l’autonomie de la personne âgée.</li>
+              <li>Etre à l’écoute des besoins de la personne âgée (physique, psychique, spirituel)</li>
+              <li>Etre un lieu de séjour provisoire, avant un retour à domicile, ou dans l’attente d’une place vers un EMS.  (convalescence pas reconnue).</li>
+            </ul>
+          </p>
+          <p><a class="btn btn-default" href="#" role="button">En savoir plus &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
@@ -186,10 +195,7 @@
 
 
       <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2016 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-      </footer>
+
 
     </div><!-- /.container -->
 
